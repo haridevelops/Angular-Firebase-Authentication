@@ -11,7 +11,7 @@ export class AppComponent {
 
   ngOnInit() {
     firebase.initializeApp({
-      apiKey: "AIzaSyAXmmANvTBpPetwIC6KXu1nxTfKySQEZD4",
+      apiKey: "",
       authDomain: "angular-authentication-9b322.firebaseapp.com",
       databaseURL: "https://angular-authentication-9b322.firebaseio.com",
       projectId: "angular-authentication-9b322",
