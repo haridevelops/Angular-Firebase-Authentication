@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AngularFirebaseAuthentication
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
@@ -26,7 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
 # Angular-Firebase-Authentication
 Prototype for Angular Authentication with Firebase(email and password)
->>>>>>> db8490d9dc1efc5ec66978f567b5ea9e7209a5a6
+
+#Used below dependency
+bootstrap@3.3.7
+firebase@5.2.0
+rxjs@6.2.1
+
+API key has been removed as it is a sensitive data. Add your own API key to push and get authorization for login and logout mechanism
