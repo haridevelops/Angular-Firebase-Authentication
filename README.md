@@ -1,5 +1,8 @@
 # AngularFirebaseAuthentication
 
+play around in StackBlitz
+https://angular6-firebase-auth.stackblitz.io
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
